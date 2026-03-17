@@ -2,7 +2,7 @@
 
 A polished AI chat interface with multiple personas, streaming responses, markdown rendering, and an embeddable widget. Built as a portfolio project demonstrating production-grade AI integration.
 
-**Live demo:** [your-url-here]
+**Live demo:** https://synth-ai-chat.vercel.app/chat
 
 ## Stack
 
